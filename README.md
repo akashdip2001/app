@@ -836,5 +836,3 @@ activity_main,xml
 </RelativeLayout>
 ```
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[final app](https://github.com/Engineering-college-btech/custom-video-player/blob/main/app.md)
