@@ -1,16 +1,3 @@
-All .md
-| [2nd repo](https://github.com/Engineering-college-btech/custom-video-player/blob/main/2nd%20repository.md) |
-|---
-| [Security](https://github.com/Engineering-college-btech/custom-video-player/blob/main/Security.md) |
-| [Style](https://github.com/Engineering-college-btech/custom-video-player/blob/main/Style.md) |
-
-# freecad_app 
-
-| [Download FreeCAD old-App](https://github.com/Engineering-college-btech/custom-video-player/releases/tag/freecad) |
-|---
-
-|🍭 [Downlod-app](https://akashdip2001.github.io/freecad_app/app_download.html) 🍭|🐥 [old app interface](https://akashdip2001.github.io/freecad_app/) 🐥|❌ [New app interface](https://github.com/Engineering-college-btech/custom-video-player/blob/main/Security.md) ❌|
-|-------------------- |-------------------- |-------------------- |
 
 ![webapp dev (2)](https://github.com/akashdip2001/freecad_app/assets/81384987/beec1827-4afe-4394-9394-941db53c43db)
 ![webapp dev (3)](https://github.com/akashdip2001/freecad_app/assets/81384987/979c980e-77e1-432a-b69a-2da4e18f22ad)
@@ -238,8 +225,6 @@ public class MainActivity extends AppCompatActivity {
 
 ### 2. Create `AndroidManifest.xml`:
 
-If the `AndroidManifest.xml` file doesn't exist, you can create it manually. In the `app` module, navigate to the `src/main` directory and create a new XML file named `AndroidManifest.xml`. Below is a basic example:
-
 ```xml
 <!-- app/src/main/AndroidManifest.xml -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
@@ -271,8 +256,6 @@ If the `AndroidManifest.xml` file doesn't exist, you can create it manually. In 
 ![freecad_img](https://github.com/Engineering-college-btech/custom-video-player/assets/81384987/e938ce6d-b808-4d66-a5f2-f64b8d25a59d)
 
 # final 
-
-![1](https://github.com/Engineering-college-btech/custom-video-player/assets/81384987/347ca51b-8adb-4d62-9f5f-bc1a89102ea5)
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
